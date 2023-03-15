@@ -10,6 +10,7 @@
       <title>The Piracy Channel</title>
       <url>https://ucarecdn.com/a145de67-d998-4641-8cc7-169407c3dad4/PiracyChannelSDsplash.png</url>
     </image>
+    <atom:link href="https://huggums537.github.io/special-invention/PiracyChannel.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Steal This Film</title>
       <pubDate>Tue, 14 Mar 2006 00:00:00 GMT</pubDate>
