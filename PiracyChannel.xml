@@ -2,9 +2,14 @@
 <rss xmlns:dcterms="http://purl.org/dc/terms/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>The Piracy Channel</title>
-      <link>https://ucarecdn.com/a145de67-d998-4641-8cc7-169407c3dad4/PiracyChannelSDsplash.png</link>
+      <link>https://huggums537.github.io/special-invention/</link>
     <pubDate>Tue, 14 Mar 2023 13:38:14 GMT</pubDate>
     <description>Copyright reform videos</description>
+    <image>
+      <link>https://ucarecdn.com/a145de67-d998-4641-8cc7-169407c3dad4/PiracyChannelSDsplash.png</link>
+      <title>The Piracy Channel</title>
+      <url>https://ucarecdn.com/a145de67-d998-4641-8cc7-169407c3dad4/PiracyChannelSDsplash.png</url>
+    </image>
     <item>
       <title>Steal This Film</title>
       <pubDate>Tue, 14 Mar 2006 00:00:00 GMT</pubDate>
